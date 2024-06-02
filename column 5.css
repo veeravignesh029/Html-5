@@ -1,0 +1,16 @@
+.box-1{
+    background-color: red;
+ }
+ .box-2{
+    width: 70%;
+    background-color: blue;
+}
+ header{
+     width: 100%;
+     background-color: yellow;
+     padding: 30px;
+ }
+ .main{
+     display: flex;
+     height: 100vh;
+ }
